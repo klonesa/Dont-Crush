@@ -1,2 +1,2 @@
 # Dont-Crush
-It is a hypercasual game.
+It is a hypercasual game prototype.
